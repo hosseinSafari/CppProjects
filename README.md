@@ -14,5 +14,13 @@ https://codeforces.com/contest/148/problem/A
 3_ A. Anton and Letters
 https://codeforces.com/problemset/problem/443/A
 
+4_ B. Taxi
+https://codeforces.com/problemset/problem/158/B
+
+5_ A. Rank List
+http://codeforces.com/problemset/problem/166/A
+
+
+
 
 
