@@ -9,8 +9,9 @@ using namespace std;
 bool sortbysec(const pair<int,int> &a, 
               const pair<int,int> &b) 
 { 
-if(a.F==b.F && a.S< b.S) return true;
-return a.F > b.F;
+if(a.F != b.F)
+  return a.F > b.F;
+return a.S < b.S;
 } 
 
 int main() {
