@@ -24,7 +24,6 @@ while(cin>>x>>y){
 	v.PB(MP(x,y));
 }
 
-sort(v.begin(), v.end());
 sort(v.begin(), v.end() , sortbysec);
 
 cout<<count(v.begin(), v.end() , MP(v[k-1].F,v[k-1].S));
