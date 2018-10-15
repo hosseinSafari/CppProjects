@@ -24,44 +24,44 @@ for(int u=0;u<t;u++){
 				zi=i-1; zj=j-1; yi=i+1; yj=j+1;
 				if(v[i][j].S=='R'){
 					if(zi>=0){
-						if(v[zi][j].S=='P') v[i][j].F=v[zi][j].S;
+						if(v[zi][j].S=='P') {v[i][j].F=v[zi][j].S; continue;}
 					}
 					if(yi<=r){
-						if(v[yi][j].S=='P') v[i][j].F=v[yi][j].S; 
+						if(v[yi][j].S=='P') {v[i][j].F=v[yi][j].S; continue;}
 					}
 					if(zj>=0){
-						if(v[i][zj].S=='P') v[i][j].F=v[i][zj].S; 
+						if(v[i][zj].S=='P') {v[i][j].F=v[i][zj].S; continue;}
 					}
 					if(yj<=c){
-						if(v[i][yj].S=='P') v[i][j].F=v[i][yj].S; 
+						if(v[i][yj].S=='P') {v[i][j].F=v[i][yj].S; continue;}
 					}
 				}
 				else if(v[i][j].S=='S'){
 					if(zi>=0){
-						if(v[zi][j].S=='R') v[i][j].F=v[zi][j].S;
+						if(v[zi][j].S=='R') {v[i][j].F=v[zi][j].S; continue;}
 					}
 					if(yi<=r){
-						if(v[yi][j].S=='R') v[i][j].F=v[yi][j].S;
+						if(v[yi][j].S=='R') {v[i][j].F=v[yi][j].S; continue;}
 					}
 					if(zj>=0){
-						if(v[i][zj].S=='R') v[i][j].F=v[i][zj].S;
+						if(v[i][zj].S=='R') {v[i][j].F=v[i][zj].S; continue;}
 					}
 					if(yj<=c){
-						if(v[i][yj].S=='R') v[i][j].F=v[i][yj].S; 
+						if(v[i][yj].S=='R') {v[i][j].F=v[i][yj].S; continue;}
 					}
 				}
 				else{
 					if(zi>=0){
-						if(v[zi][j].S=='S') v[i][j].F=v[zi][j].S; 
+						if(v[zi][j].S=='S') {v[i][j].F=v[zi][j].S; continue; }
 					}
 					if(yi<=r){
-						if(v[yi][j].S=='S') v[i][j].F=v[yi][j].S; 
+						if(v[yi][j].S=='S') {v[i][j].F=v[yi][j].S; continue;}
 					}
 					if(zj>=0){
-						if(v[i][zj].S=='S') v[i][j].F=v[i][zj].S; 
+						if(v[i][zj].S=='S') {v[i][j].F=v[i][zj].S; continue;}
 					}
 					if(yj<=c){
-						if(v[i][yj].S=='S') v[i][j].F=v[i][yj].S; 
+						if(v[i][yj].S=='S') {v[i][j].F=v[i][yj].S; continue;}
 					}
 				}
 			}
@@ -85,4 +85,3 @@ for(int u=0;u<t;u++){
 
 return 0;
 }
-
