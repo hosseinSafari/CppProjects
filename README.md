@@ -20,6 +20,9 @@ https://codeforces.com/problemset/problem/158/B
 5_ A. Rank List
 http://codeforces.com/problemset/problem/166/A
 
+6_ 10443 - Rock, Scissors, Paper
+https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=&problem=1384&mosmsg=Submission+received+with+ID+22132314
+
 
 
 
