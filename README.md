@@ -23,6 +23,9 @@ http://codeforces.com/problemset/problem/166/A
 6_ 10443 - Rock, Scissors, Paper
 https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=&problem=1384&mosmsg=Submission+received+with+ID+22132314
 
+7_ B. Lovely Palindromes
+https://codeforces.com/problemset/problem/688/B
+
 
 
 
