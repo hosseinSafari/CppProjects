@@ -26,6 +26,9 @@ https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_
 7_ B. Lovely Palindromes
 https://codeforces.com/problemset/problem/688/B
 
+8_ B. Guess the Permutation
+https://codeforces.com/problemset/problem/618/B
+
 
 
 
