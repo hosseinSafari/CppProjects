@@ -29,6 +29,12 @@ https://codeforces.com/problemset/problem/688/B
 8_ B. Guess the Permutation
 https://codeforces.com/problemset/problem/618/B
 
+9_ B. New Year's Eve
+http://codeforces.com/contest/912/problem/B
+
+10_ A. Plate Game
+http://codeforces.com/problemset/problem/197/A
+
 
 
 
