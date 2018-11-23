@@ -35,6 +35,9 @@ http://codeforces.com/contest/912/problem/B
 10_ A. Plate Game
 http://codeforces.com/problemset/problem/197/A
 
+11_ Hangover
+http://poj.org/problem?id=1003
+
 
 
 
