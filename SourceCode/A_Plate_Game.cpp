@@ -1,12 +1,13 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main(){
-int a,b,r,v,h;
+int a,b,r,v,h,m;
 cin>>a>>b>>r;
 r*=2;
 v=a/r;
 h=b/r;
-if((v*h)%2 != 0) cout<<"First";
-else cout<<"Second";
+m=min(a,b);
+if(r>m) cout<<"Second";
+else cout<<"First";
 return 0;
 }
