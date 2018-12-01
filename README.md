@@ -43,6 +43,9 @@ http://poj.org/problem?id=1003
 12_ DNA Sorting 1007.cpp
 http://poj.org/problem?id=1007
 
+13_ Vertical Histogram 2136.cpp
+http://poj.org/problem?id=2136
+
 
 
 
