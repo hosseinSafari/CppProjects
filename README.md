@@ -46,6 +46,8 @@ http://poj.org/problem?id=1007
 13_ Vertical Histogram 2136.cpp
 http://poj.org/problem?id=2136
 
+14 Herd Sums 2140.cpp
+http://poj.org/problem?id=2140
 
 
 
