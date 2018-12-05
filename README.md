@@ -46,8 +46,10 @@ http://poj.org/problem?id=1007
 13_ Vertical Histogram 2136.cpp
 http://poj.org/problem?id=2136
 
-14 Herd Sums 2140.cpp
+14_ Herd Sums 2140.cpp
 http://poj.org/problem?id=2140
 
+15_ Adding Reversed Numbers 1504.cpp
+http://poj.org/problem?id=1504
 
 
