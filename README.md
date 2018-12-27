@@ -52,4 +52,9 @@ http://poj.org/problem?id=2140
 15_ Adding Reversed Numbers 1504.cpp
 http://poj.org/problem?id=1504
 
+16_ Exponentiation 1001.py
+https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3357
+
+
+
 
