@@ -15,3 +15,5 @@ int main()
     return 0;
     
 }
+
+//source : http://www.cplusplus.com/forum/beginner/14666/s
